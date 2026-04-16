@@ -1,1 +1,9 @@
-out
+# IntelliJ / IDE
+.idea/
+
+# Compiled files
+out/
+*.class
+
+# Mac system files
+.DS_Store
