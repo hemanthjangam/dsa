@@ -13,8 +13,14 @@ package Strings;
 //  -Return −2³¹ (i.e., -2147483648) if it is smaller than the minimum value.
 
 
-// input :
-// output:
+// input : -123
+// output: -123
+
+// input : -0012243d
+// output: -12243
+
+// input : 3214235234234242352
+// output: 2147483647
 
 import java.util.Scanner;
 
