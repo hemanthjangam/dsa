@@ -1,4 +1,4 @@
-package Arrays;
+package BinarySearch;
 
 public class BSRotatedSorted2 {
     static void main(String[] args) {
